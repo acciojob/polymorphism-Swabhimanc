@@ -7,9 +7,9 @@ public class Main {
 
         int product1 = p.product(10,5);
         int product2 = p.product(10,5,7);
-        double product = p.product(27.0,35.0);
+        double productBool = p.product(27.0,35.0);
 
-        System.out.println(product1+" "+product2+" "+product);
+        System.out.println(product1+" "+product2+" "+productBool);
 
     }
     static class Product
