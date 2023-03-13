@@ -12,7 +12,7 @@ public class Main {
         System.out.println(product1+" "+product2+" "+productBool);
 
     }
-    static class Product
+    public static class Product
     {
         public int product(int x, int y)
         {
